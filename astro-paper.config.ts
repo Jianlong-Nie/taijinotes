@@ -8,7 +8,7 @@ export default defineAstroPaperConfig({
     author: "小聂",
     profile: "https://jianlongnie.com/", // 个人主页，没有可留空
     ogImage: "taiji-cover.jpg", // 替换成太极拳封面图，放到public目录
-    lang: "zh-CN", // 全站中文
+    lang: "zh", // 全站中文
     timezone: "Asia/Shanghai", // 中国时区
     dir: "ltr",
   },
